@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin-top: 100px;
+}
+#city{
+    color: olive;
+}
